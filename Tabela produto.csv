@@ -1,0 +1,7 @@
+id,tipo,descricao,peso,quantidade,unidade_medida
+2,Limpeza,Detergente,1.00,15,litro
+3,Limpeza,"Sabão de quadro",2.50,10,kg
+4,Limpeza,Desinfetante,1.00,20,litro
+5,Limpeza,"Sabão em Pó",1.50,5,kg
+6,Limpeza,Veja,1.00,5,litro
+7,Limpeza,Amaciante,1.50,5,litro
